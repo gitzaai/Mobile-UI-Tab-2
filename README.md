@@ -1,5 +1,6 @@
 ## Flarum UI Tab Extension
 Flarum extension. Add a bottom tab to flarum on mobile.
+由于Littlegolden的库被删了，因此我特意fork了一份上来，欢迎大家一起维护
 
 ### Future goals
 - Add click animation.
@@ -11,17 +12,18 @@ Flarum extension. Add a bottom tab to flarum on mobile.
 
 ### Installation / Update
 ```
-composer require itnt/flarum-uitab
+composer require gitzaai/mobile-ui-tab-2
 ```
 
 ### Remove
 ```
-composer remove itnt/flarum-uitab
+composer remove gitzaai/mobile-ui-tab-2
 ```
 
-### Demo
-  - https://bbs.csur.fun
-  - https://FAQ.ma
+### Demo / 演示
+  - https://forum.gitzaai.com
+
+原作者信息：
 
 ### Links
   - [Flarum](https://discuss.flarum.org/d/)
